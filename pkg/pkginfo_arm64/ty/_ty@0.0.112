@@ -1,0 +1,3 @@
+sha256: "f41132683a2ed9f05af9b8863578768e1aec2f57a61eb966aa48fb56b940634c"
+file: "ty-aarch64-apple-darwin.tar.gz"
+url: "https://github.com/astral-sh/ty/releases/download/0.0.112/ty-aarch64-apple-darwin.tar.gz"
