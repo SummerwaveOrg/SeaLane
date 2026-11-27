@@ -1,0 +1,3 @@
+sha256: "ebf30609c29fdf1198fe86b99206ca1c469c3fbe17e1e42f06ddc2d77f7824eb"
+file: "ty-aarch64-unknown-linux-gnu.tar.gz"
+url: "https://github.com/astral-sh/ty/releases/download/0.0.112/ty-aarch64-unknown-linux-gnu.tar.gz"

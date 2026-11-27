@@ -1,0 +1,3 @@
+sha256: "90875cb1db7a1d797c311174d061728361e58fc70e3b62262a00635ac3b1997c"
+file: "hyperfine-v1.20.0-aarch64-unknown-linux-gnu.tar.gz"
+url: "https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-aarch64-unknown-linux-gnu.tar.gz"

@@ -1,0 +1,3 @@
+sha256: "9c106db4afe51e4d77bd3fdfc29c5d22f500b31c88a2b02009f7c3486313b84e"
+file: "circleci-cli_1.18.0_linux_arm64.tar.gz"
+url: "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_linux_arm64.tar.gz"

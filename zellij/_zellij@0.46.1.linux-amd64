@@ -1,0 +1,3 @@
+sha256: "dbd2a19e52acb25c5ae17f6fc66cf13584f1d9742e0bde97dff80120e7eda705"
+file: "zellij-no-web-x86_64-unknown-linux-gnu.sha256sum"
+url: "https://github.com/zellij-org/zellij/releases/download/v0.46.1/zellij-no-web-x86_64-unknown-linux-gnu.sha256sum"

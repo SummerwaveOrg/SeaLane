@@ -1,0 +1,3 @@
+sha256: "624b53dd69e08574811c5fb4b6938401a55b7fd4a268d8217d3922e8d9139065"
+file: "taskwarrior-tui-x86_64-unknown-linux-gnu.sha256"
+url: "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-gnu.sha256"

@@ -1,0 +1,3 @@
+sha256: "23018f1f7136b8391bb300e2579bcf4759e3c64012856f51c0fb6fffe1ee3841"
+file: "trivy_0.75.0_Linux-ARM64.deb"
+url: "https://github.com/aquasecurity/trivy/releases/download/v0.75.0/trivy_0.75.0_Linux-ARM64.deb"

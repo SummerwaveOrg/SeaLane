@@ -1,0 +1,3 @@
+sha256: "247746dd2d18f0135da79b849bb6b49e45262e2fe4318adfc3082dc6ce3ee968"
+file: "tealdeer-linux-aarch64-musl"
+url: "https://github.com/tealdeer-rs/tealdeer/releases/download/v1.9.1/tealdeer-linux-aarch64-musl"

@@ -1,0 +1,3 @@
+sha256: "9db7ee9b725bce7cdd195b9183449a4c6fb93cad3e6578e70b87c0bc7f6062e9"
+file: "rclone-v1.76.0-linux-amd64.deb"
+url: "https://github.com/rclone/rclone/releases/download/v1.76.0/rclone-v1.76.0-linux-amd64.deb"

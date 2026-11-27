@@ -1,0 +1,3 @@
+sha256: "15ee9a52b60e22d62c3195c70d0a708fbaeb3decb393f2571cbd4e1079608e6b"
+file: "ollama-linux-amd64-mlx.tar.zst"
+url: "https://github.com/ollama/ollama/releases/download/v0.35.1/ollama-linux-amd64-mlx.tar.zst"

@@ -1,0 +1,3 @@
+sha256: "397397f6a185e9fc4a3d92eb6e51960074195c5801ed857e2a75fa0940d77eaa"
+file: "k9s_linux_arm64.apk"
+url: "https://github.com/derailed/k9s/releases/download/v0.50.18/k9s_linux_arm64.apk"

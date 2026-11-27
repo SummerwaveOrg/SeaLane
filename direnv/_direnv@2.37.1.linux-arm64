@@ -1,0 +1,3 @@
+sha256: "2a9cef8d73521d6a3ec3f2871c4b747b8c4cc038628c1b57a7efa42b393a2d82"
+file: "direnv.linux-arm64"
+url: "https://github.com/direnv/direnv/releases/download/v2.37.1/direnv.linux-arm64"

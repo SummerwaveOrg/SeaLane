@@ -1,0 +1,3 @@
+sha256: "f6198ef8090f404dbb771abfee086eb8c48ac177f30da7fd3510aca35b344b5d"
+file: "hadolint-linux-arm64"
+url: "https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-linux-arm64"

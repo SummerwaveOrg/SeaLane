@@ -1,0 +1,3 @@
+sha256: "748237128c4c40cbdabc65e841d05ceba13cc23a91eaba395495894c1d9764df"
+file: "just-1.58.0-aarch64-unknown-linux-musl.tar.gz"
+url: "https://github.com/casey/just/releases/download/1.58.0/just-1.58.0-aarch64-unknown-linux-musl.tar.gz"

@@ -1,0 +1,3 @@
+sha256: "86800e7dbe423cc7ed14076f40983f1bc739a299ca9a5ae5604cf261a87b3865"
+file: "fd-v10.5.1-aarch64-unknown-linux-gnu.tar.gz"
+url: "https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-aarch64-unknown-linux-gnu.tar.gz"

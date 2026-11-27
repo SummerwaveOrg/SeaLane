@@ -1,0 +1,3 @@
+sha256: "6fff506545782de496d7cb29653359b9fca29b0b9979eb9e985fd8092e89f289"
+file: "tofu_1.12.12_linux_arm64.tar.gz"
+url: "https://github.com/opentofu/opentofu/releases/download/v1.12.12/tofu_1.12.12_linux_arm64.tar.gz"

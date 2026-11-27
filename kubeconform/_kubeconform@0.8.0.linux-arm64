@@ -1,0 +1,3 @@
+sha256: "1f53fc8e81258197a35e8603054162a5af1de8c5af13746c71ab680d9534ed87"
+file: "kubeconform-linux-arm64.tar.gz"
+url: "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-linux-arm64.tar.gz"

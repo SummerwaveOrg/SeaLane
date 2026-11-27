@@ -1,0 +1,3 @@
+sha256: "b12f5e2ee0d01f6f21e0759cced0be2d8df9cd4e93e6a3cf11393170ae0f43cf"
+file: "stern_1.35.0_linux_arm64.tar.gz"
+url: "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_linux_arm64.tar.gz"

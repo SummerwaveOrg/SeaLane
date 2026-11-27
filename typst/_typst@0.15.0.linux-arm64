@@ -1,0 +1,3 @@
+sha256: "cdf50ffc7b8ba759ed02200632eda3d78eb8b99aacb6611f4f75684990647620"
+file: "typst-aarch64-unknown-linux-musl.tar.xz"
+url: "https://github.com/typst/typst/releases/download/v0.15.0/typst-aarch64-unknown-linux-musl.tar.xz"

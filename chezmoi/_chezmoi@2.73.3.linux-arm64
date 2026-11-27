@@ -1,0 +1,3 @@
+sha256: "23c4d3998fc7fc0d4858563573aaabbffdfec656eb704f90b727c45467a7806d"
+file: "chezmoi_2.73.3_linux_arm64.apk"
+url: "https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_arm64.apk"

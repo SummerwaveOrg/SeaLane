@@ -1,0 +1,3 @@
+sha256: "b2f64629ea312778e25bbdcad2d009b68cdc5e4376a164f95d92db4ad7170dda"
+file: "skim-aarch64-unknown-linux-gnu.tar.xz"
+url: "https://github.com/skim-rs/skim/releases/download/v5.9.0/skim-aarch64-unknown-linux-gnu.tar.xz"

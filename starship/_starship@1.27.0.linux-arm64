@@ -1,0 +1,3 @@
+sha256: "341f5cbf24699fa0b27ec88965ad25f862ea09e15d35a543fd6ffdff1d2aa00d"
+file: "starship-aarch64-unknown-linux-musl.tar.gz"
+url: "https://github.com/starship/starship/releases/download/v1.27.0/starship-aarch64-unknown-linux-musl.tar.gz"

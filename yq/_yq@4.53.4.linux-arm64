@@ -1,0 +1,3 @@
+sha256: "8c3cf4cff01536588947b6e0ba1544768039e34054cd9ca8a9e4c5706dfb8631"
+file: "yq_linux_arm64"
+url: "https://github.com/mikefarah/yq/releases/download/v4.53.4/yq_linux_arm64"

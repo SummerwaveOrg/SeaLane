@@ -1,0 +1,3 @@
+sha256: "711a69576a2ff473fb01a90ffafb571c2ed019e55479d7ae71b12c2eadeb7011"
+file: "websocat.aarch64-unknown-linux-musl"
+url: "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.aarch64-unknown-linux-musl"

@@ -1,0 +1,3 @@
+sha256: "88ee1d2e1a69f266ac99b8b30374e07757a42219e745b046ea0426c08ea951ae"
+file: "tofu_1.11.14_linux_amd64.tar.gz"
+url: "https://github.com/opentofu/opentofu/releases/download/v1.11.14/tofu_1.11.14_linux_amd64.tar.gz"

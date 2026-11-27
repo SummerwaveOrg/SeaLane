@@ -1,0 +1,3 @@
+sha256: "b4dfaef47d491a7296981f8374a4595f55dbf84e8937c8ecd2983574d8bb3da6"
+file: "uv-x86_64-unknown-linux-gnu.tar.gz"
+url: "https://github.com/astral-sh/uv/releases/download/0.12.24/uv-x86_64-unknown-linux-gnu.tar.gz"

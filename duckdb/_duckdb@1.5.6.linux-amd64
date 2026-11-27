@@ -1,0 +1,3 @@
+sha256: "b146bc46094e67f713e0a83a0309910dfbc6696a557e651f484f2d2f80e54f6b"
+file: "duckdb_cli-linux-amd64-musl.gz"
+url: "https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-amd64-musl.gz"

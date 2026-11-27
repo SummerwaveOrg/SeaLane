@@ -1,0 +1,3 @@
+sha256: "791307ebd3e89a40fa06c387d73d1862aac79ef4c28378eeabc7271ddff03530"
+file: "nvim-linux-arm64.appimage"
+url: "https://github.com/neovim/neovim/releases/download/v0.11.7/nvim-linux-arm64.appimage"

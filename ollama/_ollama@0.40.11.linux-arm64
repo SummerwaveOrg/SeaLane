@@ -1,0 +1,3 @@
+sha256: "8ffe45f38bbcd0109870814a9256b4114c5fe28ed05655d419120ce279eb1b4d"
+file: "ollama-linux-arm64-jetpack5.tar.zst"
+url: "https://github.com/ollama/ollama/releases/download/v0.40.11/ollama-linux-arm64-jetpack5.tar.zst"

@@ -1,0 +1,3 @@
+sha256: "bbb2ebc765f483cf9fac42da8763dddc2b55b350ee12ea0c44a520a6d6d52334"
+file: "cosign-linux-arm64"
+url: "https://github.com/sigstore/cosign/releases/download/v3.1.6/cosign-linux-arm64"

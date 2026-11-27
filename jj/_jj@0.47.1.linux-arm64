@@ -1,0 +1,3 @@
+sha256: "0f300e1576de8dabe0a9dedf0b87ae44f8accea5cf54d9a342a51061c1fb1bcd"
+file: "jj-v0.47.1-aarch64-unknown-linux-musl.tar.gz"
+url: "https://github.com/jj-vcs/jj/releases/download/v0.47.1/jj-v0.47.1-aarch64-unknown-linux-musl.tar.gz"

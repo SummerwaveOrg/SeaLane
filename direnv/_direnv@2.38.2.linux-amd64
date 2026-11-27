@@ -1,0 +1,3 @@
+sha256: "148820a187930d36ca6a204504e5cdb30d8396cd1a97e64c3b3f10d793c11247"
+file: "direnv.linux-amd64"
+url: "https://github.com/direnv/direnv/releases/download/v2.38.2/direnv.linux-amd64"

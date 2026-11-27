@@ -1,0 +1,3 @@
+sha256: "56f53f09490b1b6f844e2552591c54332237459ed7bdb9a4068ae72c35b398c4"
+file: "cloudflared-linux-aarch64.rpm"
+url: "https://github.com/cloudflare/cloudflared/releases/download/2026.11.2/cloudflared-linux-aarch64.rpm"

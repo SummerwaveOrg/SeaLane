@@ -1,0 +1,3 @@
+sha256: "93221c07d549750e5cfac2a76f70e5d792c744958ecc466bbeb9d3bef34288b6"
+file: "bottom_aarch64-unknown-linux-gnu.tar.gz"
+url: "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-unknown-linux-gnu.tar.gz"

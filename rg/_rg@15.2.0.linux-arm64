@@ -1,0 +1,3 @@
+sha256: "a740b91c82eaf9914cfedd353572f2791cbe0162c84101ee0951058f4dcbc90d"
+file: "ripgrep-15.2.0-aarch64-unknown-linux-gnu.tar.gz"
+url: "https://github.com/BurntSushi/ripgrep/releases/download/15.2.0/ripgrep-15.2.0-aarch64-unknown-linux-gnu.tar.gz"

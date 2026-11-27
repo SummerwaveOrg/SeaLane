@@ -1,0 +1,3 @@
+sha256: "d4eea36ee6228f6c6bbcf0aea4ebf66fe0e595eedc6cffe628d7b8ba3623390f"
+file: "ruff-aarch64-unknown-linux-gnu.tar.gz"
+url: "https://github.com/astral-sh/ruff/releases/download/0.17.6/ruff-aarch64-unknown-linux-gnu.tar.gz"
