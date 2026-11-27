@@ -1,0 +1,8 @@
+sha256: "315bad7143ecb937bacf1b2d9bdc038555643873a7b37b1410a6f9ee75ac65a2"
+file: "libxml2@2.13.8.amd64.tar.bz2"
+url: "https://repo.continuum.io/pkgs/main/osx-64/libxml2-2.13.8-h6070cd6_0.tar.bz2"
+deps: "icu@73.1"
+      "libiconv@1.16"
+      "xz@5.6.4"
+      "zlib@1.2.13"
+relocated: "loader_path"

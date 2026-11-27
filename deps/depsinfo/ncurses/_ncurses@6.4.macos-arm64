@@ -1,0 +1,4 @@
+sha256: "da9f2f42a6f817be14bf23c7fc5a9cc7786fb9765605b63b530cd57204e8b755"
+file: "ncurses@6.4.arm64.tar.bz2"
+url: "https://repo.continuum.io/pkgs/main/osx-arm64/ncurses-6.4-h313beb8_0.tar.bz2"
+relocated: "loader_path"

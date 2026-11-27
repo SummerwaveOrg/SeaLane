@@ -1,0 +1,4 @@
+sha256: "d4bc288c6547a0b5d8bc37acd3698de961df4cd74194d93d57183a297cf66713"
+file: "libunistring@0.9.10.amd64.tar.bz2"
+url: "https://repo.continuum.io/pkgs/main/osx-64/libunistring-0.9.10-h9ed2024_0.tar.bz2"
+relocated: "loader_path"

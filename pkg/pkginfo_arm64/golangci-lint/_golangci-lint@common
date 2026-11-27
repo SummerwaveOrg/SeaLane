@@ -1,5 +1,0 @@
-des: "Fast linters runner for Go"
-hom: "https://golangci-lint.run"
-lic: "GPL-3.0-or-later"
-aut: "golangci"
-bin_name: "golangci-lint"

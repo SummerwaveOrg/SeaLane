@@ -1,0 +1,4 @@
+sha256: "7fd5d1db24f8d4f322e4bf988aee47361d50255e896076b5663604e43ff0f043"
+file: "libcxx@21.1.8.amd64.tar.bz2"
+url: "https://conda.anaconda.org/conda-forge/osx-64/libcxx-21.1.8-hc69e625_3.conda"
+relocated: "loader_path"

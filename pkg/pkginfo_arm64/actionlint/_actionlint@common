@@ -1,5 +1,0 @@
-des: "Static checker for GitHub Actions workflow files"
-hom: "https://github.com/rhysd/actionlint"
-lic: "MIT"
-aut: "rhysd"
-bin_name: "actionlint"

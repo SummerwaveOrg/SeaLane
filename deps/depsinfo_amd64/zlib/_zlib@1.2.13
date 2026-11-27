@@ -1,4 +1,0 @@
-sha256: "c254126f334c5ff15c2def4477d0c598a2502eb2012835f4b50701ef98002f93"
-file: "zlib-1.2.13-h4b97444_1.tar.bz2"
-url: "https://repo.continuum.io/pkgs/main/osx-64/zlib-1.2.13-h4b97444_1.tar.bz2"
-relocated: "loader_path"

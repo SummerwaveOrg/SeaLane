@@ -1,0 +1,8 @@
+sha256: "4601a97adc936f931d336176e4ae789d6e287fa614080bd15bfc22133b2829b9"
+file: "btop@1.4.5.arm64.tar.bz2"
+url: "https://conda.anaconda.org/conda-forge/osx-arm64/btop-1.4.5-h49c215f_0.conda"
+deps: "libcxx@23.1.2"
+min_os: "11.0"
+relocated: "loader_path"
+install: "tree"
+min_client_version: "4.5.0"

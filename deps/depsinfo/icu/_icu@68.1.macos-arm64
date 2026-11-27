@@ -1,0 +1,5 @@
+sha256: "592c3d73fb3364a27cecdebe769e4af4acb7c71eda7a331c93203272639c35d4"
+file: "icu@68.1.arm64.tar.bz2"
+url: "https://repo.continuum.io/pkgs/main/osx-arm64/icu-68.1-hc4ed4cf_0.tar.bz2"
+deps: "libcxx@17.0.6"
+relocated: "loader_path"

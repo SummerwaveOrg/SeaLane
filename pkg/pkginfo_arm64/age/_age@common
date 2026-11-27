@@ -1,5 +1,0 @@
-des: "A simple, modern and secure file encryption tool"
-hom: "https://age-encryption.org"
-lic: "BSD-3-Clause"
-aut: "FiloSottile"
-bin_name: "age"

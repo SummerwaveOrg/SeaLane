@@ -1,0 +1,5 @@
+sha256: "f007bf7494230f204432c32887a63b3b83e463dda5766a745365b87a9d5a8708"
+file: "zstd@1.5.7.arm64.tar.bz2"
+url: "https://conda.anaconda.org/conda-forge/osx-arm64/zstd-1.5.7-hf451053_7.conda"
+deps: "zlib@1.2.13"
+relocated: "loader_path"

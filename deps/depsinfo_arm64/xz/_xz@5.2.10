@@ -1,4 +1,0 @@
-sha256: "bd3c5f0730a85b5f88ff2872589f88b99a8878678b2ebfdd4f97a77444d93f9e"
-file: "xz-5.2.10-h80987f9_1.tar.bz2"
-url: "https://repo.continuum.io/pkgs/main/osx-arm64/xz-5.2.10-h80987f9_1.tar.bz2"
-relocated: "loader_path"

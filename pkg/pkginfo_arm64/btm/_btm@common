@@ -1,5 +1,0 @@
-des: "Cross-platform graphical process/system monitor for the terminal"
-hom: "https://github.com/ClementTsang/bottom"
-lic: "MIT"
-aut: "Clement Tsang"
-bin_name: "btm"

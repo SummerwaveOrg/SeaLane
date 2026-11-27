@@ -1,5 +1,0 @@
-des: "A simple terminal UI for git commands"
-hom: "https://github.com/jesseduffield/lazygit"
-lic: "MIT"
-aut: "jesseduffield"
-bin_name: "lazygit"

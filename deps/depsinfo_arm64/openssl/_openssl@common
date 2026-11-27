@@ -1,5 +1,0 @@
-des: "OpenSSL - cryptography and SSL/TLS toolkit"
-hom: "https://www.openssl.org/"
-lic: "Apache-2.0"
-aut: "OpenSSL Project"
-dep_name: "openssl"

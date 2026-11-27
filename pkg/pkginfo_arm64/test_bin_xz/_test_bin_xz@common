@@ -1,5 +1,0 @@
-bin_name: "test_bin_xz"
-des: "MacWave format test package for .xz"
-hom: "https://github.com/MacWaveOrg/pkgtest"
-lic: "MIT"
-aut: "MacWave Test"

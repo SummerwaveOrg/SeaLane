@@ -1,0 +1,4 @@
+sha256: "4de969a6dbd57a8d90b9696d59c64fd4dad6a8dfaaeae35d4a8a9d66587138e4"
+file: "ncurses@6.5.arm64.tar.bz2"
+url: "https://repo.continuum.io/pkgs/main/osx-arm64/ncurses-6.5-hee39554_0.conda"
+relocated: "loader_path"

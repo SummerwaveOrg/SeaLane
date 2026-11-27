@@ -1,0 +1,5 @@
+sha256: "d7d7cf0559524cd533f0705517e50f7ddb88a1aae9bf0633d58449eecd5e31af"
+file: "libevent@2.1.13.arm64.tar.bz2"
+url: "https://repo.continuum.io/pkgs/main/osx-arm64/libevent-2.1.13-h6d421f9_1.tar.bz2"
+deps: "openssl@3.0.15"
+relocated: "loader_path"

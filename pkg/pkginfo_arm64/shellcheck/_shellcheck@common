@@ -1,5 +1,0 @@
-des: "A static analysis tool for shell scripts"
-hom: "https://www.shellcheck.net"
-lic: "GPL-3.0"
-aut: "koalaman"
-bin_name: "shellcheck"
