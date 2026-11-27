@@ -12,7 +12,7 @@ dependency comes from, its `sha256`, and what it depends on.
 
 # 🌊 What is this repository?
 
-MacWave itself lives in `MacWaveOrg/MacWave`. This repository carries
+The client lives in `SummerwaveOrg/Summerwave`. This repository carries
 **data only** — the installer and `wave selfupdate` never read it, but
 `wave install`, `wave search` and `wave info` do, and they read it live
 (there is no local cache to refresh).
@@ -20,14 +20,18 @@ MacWave itself lives in `MacWaveOrg/MacWave`. This repository carries
 # 🌊 Layout
 
 ```
-pkg/pkginfo_{arch}/{name}/_{name}@common             bin_name / des / hom / lic / aut
-pkg/pkginfo_{arch}/{name}/_{name}@{version}          url / sha256 / file / [install] / deps
-
-deps/depsinfo_{arch}/{name}/_{name}@common           dep_name / des / hom / lic / aut
-deps/depsinfo_{arch}/{name}/_{name}@{version}        url / sha256 / deps
+{name}/_{name}@common                        bin_name / des / hom / lic / aut
+{name}/_{name}@{version}.{os}-{arch}         url / sha256 / file / [install] / deps
 ```
 
-`{arch}` is `amd64` (Intel) or `arm64` (Apple Silicon).
+Everything sits in **one flat namespace at the repository root** — no `pkg/`
+versus `deps/` split, and no per-architecture directory. A dependency and a
+package are the same kind of thing (both install into `Shore/{name}/{version}/`),
+so they share one directory per name; what makes something a dependency is only
+that another record lists it under `deps`.
+
+`{os}-{arch}` is the platform tag baked into the record name: `macos-arm64` or
+`macos-amd64` (Intel). One directory therefore holds every platform we ship.
 
 - `url` must be `https://`.
 - `sha256` is verified before anything is extracted.
