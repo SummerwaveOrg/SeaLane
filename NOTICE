@@ -1,0 +1,15 @@
+SeaLane
+Copyright 2026 Summerwave Team
+
+This product is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full text.
+
+Commits up to 2026-11-27 were published under the MIT License and remain under
+it; the Apache License above applies from this commit onwards. Already published
+commits are not relicensed retroactively.
+
+SeaLane is an index: each record describes a third-party software package
+(name, version, platform, download address, size and hash). The packages
+themselves keep their own licenses; the license of a package is not covered by
+the Apache License above. `wave info <package>` and the upstream project's own
+release notes describe it.
