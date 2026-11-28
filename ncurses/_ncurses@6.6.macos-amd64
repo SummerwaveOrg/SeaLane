@@ -1,4 +1,4 @@
-sha256: "12c1d676b9a0e8109b576672519312c5428308f3f3d7706f8717e2f536d5d9e7"
-file: "ncurses@6.6.amd64.tar.bz2"
+sha256: "b20d48dd7000248d8777087f1ddcf7b8ab98835bf0beaed35c7fc66173ca82ba"
+file: "ncurses@6.6.macos-amd64.tar.bz2"
 url: "https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.6-hcc0dc9a_1.conda"
 relocated: "loader_path"

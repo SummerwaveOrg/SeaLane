@@ -1,4 +1,5 @@
-sha256: "7c63db14e1063bc087c505a924ac614d7ed3d72dbbbc1f2f6d2e38b682c10f58"
-file: "batt-v0.8.0-darwin-arm64.tar.gz"
+sha256: "aba05ea72802a29ef599c58bcd6e06c98678540871ab46107faa19d2845e8d5e"
+file: "batt@0.8.0.macos-arm64.tar.bz2"
 url: "https://github.com/charlie0129/batt/releases/download/v0.8.0/batt-v0.8.0-darwin-arm64.tar.gz"
 min_os: "13.0"
+relocated: "loader_path"
