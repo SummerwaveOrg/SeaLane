@@ -1,3 +1,4 @@
-sha256: "22b2b723dfbc69b6022b1b08604ff51c0db5aa8b6774b4ced1a47b8413a995d6"
-file: "gh_2.106.0_macOS_arm64.zip"
+sha256: "75e65f1705ccc77d48c7e731493bc4b37ce597a6d3e4e67dfa4904cffc8bc823"
+file: "gh@2.106.0.macos-arm64.tar.bz2"
 url: "https://github.com/cli/cli/releases/download/v2.106.0/gh_2.106.0_macOS_arm64.zip"
+relocated: "loader_path"

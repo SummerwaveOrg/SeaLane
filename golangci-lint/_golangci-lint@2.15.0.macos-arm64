@@ -1,4 +1,5 @@
-sha256: "d1e409481a8ca846c4bc97e781eb5cb1bd5c23353a0b3977a1cbda1b1b6447d5"
-file: "golangci-lint-2.15.0-darwin-arm64.tar.gz"
+sha256: "99a61ba8bdfeb5d3314c1dd5c1ce29d74d31d755480b14c6fe5c5c122fa8f8b4"
+file: "golangci-lint@2.15.0.macos-arm64.tar.bz2"
 url: "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-arm64.tar.gz"
 min_os: "13.0"
+relocated: "loader_path"

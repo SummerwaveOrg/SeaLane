@@ -1,3 +1,4 @@
-sha256: "41ea20ec4addf232a5c9dcd786af76b10c54ec3d9cf71086af58b02038af87ce"
-file: "fx_darwin_amd64"
+sha256: "292e6cbd043109b0882b2504af9d2ae9479130e12ccfc2f4a4cf410be26659e0"
+file: "fx@40.0.2.macos-amd64.tar.bz2"
 url: "https://github.com/antonmedv/fx/releases/download/40.0.2/fx_darwin_amd64"
+relocated: "loader_path"

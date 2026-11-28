@@ -1,3 +1,4 @@
-sha256: "f6c116c09b960842351e3e142cc8be1784de611f19d09920421bd7639cccd30b"
-file: "lazygit_0.66.3_darwin_x86_64.tar.gz"
+sha256: "5b9c089bc8d71d2096ef4600b78ce7dd7ef94b66dec3ea0408be1c9922542389"
+file: "lazygit@0.66.3.macos-amd64.tar.bz2"
 url: "https://github.com/jesseduffield/lazygit/releases/download/v0.66.3/lazygit_0.66.3_darwin_x86_64.tar.gz"
+relocated: "loader_path"

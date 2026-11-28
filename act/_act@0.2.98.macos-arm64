@@ -1,4 +1,5 @@
-sha256: "14477d7e076b12a885c54301beff2b524a905e4238a2b3ec9b3d1fd0efdc100f"
-file: "act_Darwin_arm64.tar.gz"
+sha256: "8d9ca2e3c16af7bec1d225cd13dd34136454b751a1e665bde6c22c4914c2809d"
+file: "act@0.2.98.macos-arm64.tar.bz2"
 url: "https://github.com/nektos/act/releases/download/v0.2.98/act_Darwin_arm64.tar.gz"
 min_os: "12.0"
+relocated: "loader_path"

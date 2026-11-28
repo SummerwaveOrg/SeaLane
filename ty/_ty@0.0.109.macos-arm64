@@ -1,3 +1,4 @@
-sha256: "c369560235777dadd7b6328248c5742a2ed9aa8cd693a6d61c86cec71f054195"
-file: "ty-aarch64-apple-darwin.tar.gz"
+sha256: "748d8c673332c42ec45a511fa69263e317dc55f92ec9e7b26a0a2d8be9a7baf5"
+file: "ty@0.0.109.macos-arm64.tar.bz2"
 url: "https://github.com/astral-sh/ty/releases/download/0.0.109/ty-aarch64-apple-darwin.tar.gz"
+relocated: "loader_path"

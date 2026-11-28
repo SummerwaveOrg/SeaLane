@@ -1,4 +1,5 @@
-sha256: "b8a231250eedec244539ade3dc437bcd60e545a099c6cc0c8a11bdbd8574b9bc"
-file: "fzf-0.74.3-darwin_amd64.tar.gz"
+sha256: "daab6e5d92ea6c00ae977b0075bb4912a50fa11ff7dd1d753a870c97dab74c83"
+file: "fzf@0.74.3.macos-amd64.tar.bz2"
 url: "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-darwin_amd64.tar.gz"
 min_os: "12.0"
+relocated: "loader_path"

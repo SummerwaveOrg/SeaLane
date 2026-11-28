@@ -1,4 +1,5 @@
-sha256: "af1504f6ff9183312638087afffc91a411669df8543b2d1f9bb8b76d0150c4ab"
-file: "RobinSing-macOS-arm64"
+sha256: "3f981fc7d2249a6df27f9627a381bc796d2b4966fe964ff6b0e887f9ba9608c5"
+file: "robinsing@0.1.0.macos-arm64.tar.bz2"
 url: "https://github.com/Sha0huaZhang/RobinSing/releases/download/v0.1.0/RobinSing-macOS-arm64"
 min_os: "12.0"
+relocated: "loader_path"

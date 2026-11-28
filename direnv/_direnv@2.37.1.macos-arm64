@@ -1,3 +1,4 @@
-sha256: "4f569f3a36732bfd8b8fea7bfcc6ad87a59745c109022164d0ca4832451d5369"
-file: "direnv.darwin-arm64"
+sha256: "694efca0324d562eb4cbdc31f8262ca28abf6c3703ab7badc3d8699c8b4696e6"
+file: "direnv@2.37.1.macos-arm64.tar.bz2"
 url: "https://github.com/direnv/direnv/releases/download/v2.37.1/direnv.darwin-arm64"
+relocated: "loader_path"

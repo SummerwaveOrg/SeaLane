@@ -1,4 +1,5 @@
-sha256: "a2f86418f4350ae6e9ec60d5000bdf7665728436946a97fc27fe50e6ae752682"
-file: "gh_2.103.3_macOS_amd64.zip"
+sha256: "3eac28d3eae12c11c1ba60437f7dec9b095e28ad8bedd7b3e8fcb13a4e7cfdf9"
+file: "gh@2.103.3.macos-amd64.tar.bz2"
 url: "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_macOS_amd64.zip"
 min_os: "13.0"
+relocated: "loader_path"

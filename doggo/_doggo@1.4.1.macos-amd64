@@ -1,4 +1,5 @@
-sha256: "2bc89d17d022d597e2b0e4a1a238a7bc29505a059f3e04aeed4e45a148b746ea"
-file: "doggo-darwin-x86_64.tar.gz"
+sha256: "8a944d3a5618a328168af46b7db50b244458337a8bee693118e954abf8f39e22"
+file: "doggo@1.4.1.macos-amd64.tar.bz2"
 url: "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-darwin-x86_64.tar.gz"
 min_os: "13.0"
+relocated: "loader_path"

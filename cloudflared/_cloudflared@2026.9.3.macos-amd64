@@ -1,3 +1,4 @@
-sha256: "d1155d0837487f261183b15c1eab6c4ebcad9dc49b94675f1524c3564cea3977"
-file: "cloudflared-darwin-amd64.tgz"
+sha256: "ffc2a727fc5c20a9c04ab6167fd5b7d7e68d872d86a2c47d7bd30896f48a4579"
+file: "cloudflared@2026.9.3.macos-amd64.tar.bz2"
 url: "https://github.com/cloudflare/cloudflared/releases/download/2026.9.3/cloudflared-darwin-amd64.tgz"
+relocated: "loader_path"

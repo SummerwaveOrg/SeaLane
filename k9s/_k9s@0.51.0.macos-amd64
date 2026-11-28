@@ -1,4 +1,5 @@
-sha256: "7e8802c57c45a0cd389e8fc38472243fe4cf48d8ad5957e189ce370e19e5eda0"
-file: "k9s_Darwin_amd64.tar.gz"
+sha256: "daf61a7daafd7edf323b894f9a50b96b4d5e2fceecdf137ea6fe19bb718618a2"
+file: "k9s@0.51.0.macos-amd64.tar.bz2"
 url: "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Darwin_amd64.tar.gz"
 min_os: "12.0"
+relocated: "loader_path"

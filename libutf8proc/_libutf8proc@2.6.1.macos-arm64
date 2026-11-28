@@ -1,4 +1,4 @@
-sha256: "e0bd6af781b8002d4db5c8a6b3f717ece2b962075f56da7da5f00aac0158520e"
+sha256: "91546809082eaa3cdd1bfaae9cd6ea972d80ebc53f25fee1cf3b103a00eec618"
 file: "libutf8proc@2.6.1.arm64.tar.bz2"
 url: "https://repo.continuum.io/pkgs/main/osx-arm64/libutf8proc-2.6.1-h80987f9_1.tar.bz2"
 relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "92e3e431c1c745966a9f7e078c39ced2c3efb342d0225c0253eed3cf626c9f14"
-file: "RobinSing-macOS-amd64"
+sha256: "6917113d348669be1240fe5ff809f4581d853f35294be366b5802a2ec17a52b3"
+file: "robinsing@0.1.2.macos-amd64.tar.bz2"
 url: "https://github.com/Sha0huaZhang/RobinSing/releases/download/v0.1.2/RobinSing-macOS-amd64"
+relocated: "loader_path"

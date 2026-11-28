@@ -1,3 +1,4 @@
-sha256: "e419bf07533bdbf48795fc793601c834dd79db57a8c49ce8e25cfe3a8639958d"
-file: "uv-aarch64-apple-darwin.tar.gz"
+sha256: "1adf073ef67fbee2a76fec15e09c5c6669ea5e7e3516e80463ae4f1f088899be"
+file: "uv@0.13.10.macos-arm64.tar.bz2"
 url: "https://github.com/astral-sh/uv/releases/download/0.13.10/uv-aarch64-apple-darwin.tar.gz"
+relocated: "loader_path"

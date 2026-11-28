@@ -1,4 +1,5 @@
-sha256: "02fe4bcf08f2c09699cff30658228a739a0c47fb75f3653d1b8772a27ade4462"
-file: "cloudflared-darwin-arm64.tgz"
+sha256: "6cdb0adf2d0373704df9dbfff6b6cf38b4c2d90e8ea66f48e603d0f324eadb18"
+file: "cloudflared@2026.11.1.macos-arm64.tar.bz2"
 url: "https://github.com/cloudflare/cloudflared/releases/download/2026.11.1/cloudflared-darwin-arm64.tgz"
 min_os: "15.0"
+relocated: "loader_path"

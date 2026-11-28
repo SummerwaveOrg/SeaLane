@@ -1,4 +1,5 @@
-sha256: "0c1b24a82097862027af6abe88f362db73e4846859a3ceda2dd466e4dc971a06"
-file: "grpcurl_1.9.4_osx_x86_64.tar.gz"
+sha256: "70d48669413aba65349baca2b63f1400f797134b09ab0a61adef473bc75616a4"
+file: "grpcurl@1.9.4.macos-amd64.tar.bz2"
 url: "https://github.com/fullstorydev/grpcurl/releases/download/v1.9.4/grpcurl_1.9.4_osx_x86_64.tar.gz"
 min_os: "12.0"
+relocated: "loader_path"

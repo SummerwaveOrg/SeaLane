@@ -1,4 +1,5 @@
-sha256: "91334ebc659b44193327a6e2d198aa4e6c2953b1e003be00c983870685e9161b"
-file: "glow_2.1.1_Darwin_x86_64.tar.gz"
+sha256: "672282fab2dec8505deab7bc0d2716a96457b131eb80c765e0360bd4ac2c538f"
+file: "glow@2.1.1.macos-amd64.tar.bz2"
 url: "https://github.com/charmbracelet/glow/releases/download/v2.1.1/glow_2.1.1_Darwin_x86_64.tar.gz"
 min_os: "11.0"
+relocated: "loader_path"

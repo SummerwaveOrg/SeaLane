@@ -1,4 +1,4 @@
-sha256: "05e96f4ce86dcc01083cb6764958bdabc41e89ec76fb4475387f3d9f504fd40b"
+sha256: "8f32c296339560273557dd553c1d1a398ae68cf60523752cf69567dfe12c7a4a"
 file: "htop-3.5.2-hf73b338_0.conda"
 url: "https://conda.anaconda.org/conda-forge/osx-arm64/htop-3.5.2-hf73b338_0.conda"
 deps: "ncurses@6.6"

@@ -1,4 +1,5 @@
-sha256: "2b31afc1ef77c46bf9cb0837dba9366ad744f452343a0f8b00d3df1eef892f84"
-file: "mise-v2026.10.25-macos-x64.tar.gz"
+sha256: "dc47fd4ad29b2adcec74e3470d1b208eededb1632e87aab20aa2a73e046ba564"
+file: "mise@2026.10.25.macos-amd64.tar.bz2"
 url: "https://github.com/jdx/mise/releases/download/v2026.10.25/mise-v2026.10.25-macos-x64.tar.gz"
 min_os: "12.0"
+relocated: "loader_path"

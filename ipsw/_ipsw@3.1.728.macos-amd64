@@ -1,4 +1,5 @@
-sha256: "ce84d756575c6455e2082b0a3917d0d74a6fcc4373f7e3f58231b1bf8c16bdb5"
-file: "ipsw_3.1.728_macOS_x86_64.tar.gz"
+sha256: "52be3447480872eac1a370530355792bc7f2d3916645335d52494931bdc9a75e"
+file: "ipsw@3.1.728.macos-amd64.tar.bz2"
 url: "https://github.com/blacktop/ipsw/releases/download/v3.1.728/ipsw_3.1.728_macOS_x86_64.tar.gz"
 min_os: "27.2"
+relocated: "loader_path"

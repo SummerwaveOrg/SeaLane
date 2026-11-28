@@ -1,3 +1,4 @@
-sha256: "d8ea8eeedafdad4ccd76853724b55b402744de6aa823cc195f95fc8bcf54328b"
-file: "flyctl_0.3.236_macOS_arm64.tar.gz"
+sha256: "a41ab6d8be236fc1f471cd31a710a440b7cf554921e63f52f3c8a8a1e650ec3e"
+file: "flyctl@0.3.236.macos-arm64.tar.bz2"
 url: "https://github.com/superfly/flyctl/releases/download/v0.3.236/flyctl_0.3.236_macOS_arm64.tar.gz"
+relocated: "loader_path"

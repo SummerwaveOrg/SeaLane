@@ -1,4 +1,4 @@
-sha256: "49a956174012c8120dc648645fbb3f35b7e29c6f0cbd0195a283354473551ac8"
+sha256: "8e56e23f6e29d9af7996b41b74acbd14ecd8d2d4902f79b7a6ed8f46db51e878"
 file: "btop@1.4.6.arm64.tar.bz2"
 url: "https://conda.anaconda.org/conda-forge/osx-arm64/btop-1.4.6-h3feff0a_0.conda"
 deps: "libcxx@23.1.2"

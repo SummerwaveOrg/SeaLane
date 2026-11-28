@@ -1,4 +1,5 @@
-sha256: "1459f1ec2182162c85beddacff9b05d1cb921bfb2656a6fd9151e9cd84cd63e9"
-file: "actionlint_1.6.27_darwin_amd64.tar.gz"
+sha256: "19c8db7da12f6fc7cade8fcbbf547f16f3e50680f31331ddedf790be40a04e84"
+file: "actionlint@1.6.27.macos-amd64.tar.bz2"
 url: "https://github.com/rhysd/actionlint/releases/download/v1.6.27/actionlint_1.6.27_darwin_amd64.tar.gz"
 min_os: "10.13"
+relocated: "loader_path"

@@ -1,5 +1,6 @@
-sha256:"2d75340ba57a4b4b4c8708a21c2dc8e958a48aaa8bba13b27f77f6e4c0eca07e"
-file: "jq-macos-arm64"
+sha256: "c95be3911b64e9b851c073527c49da3cdd852cfb047ed77d3ce0f3954d5a75bc"
+file: "jq@1.8.2.macos-arm64.tar.bz2"
 url: "https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-macos-arm64"
 
 min_os: "14.0"
+relocated: "loader_path"

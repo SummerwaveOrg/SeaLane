@@ -1,3 +1,4 @@
-sha256: "91ad9ce96e156065ba2c751a7392ee748fa8e49b063e14d7203df6e957c212f9"
-file: "direnv.darwin-amd64"
+sha256: "2d4846f2d3b2331e77524cec35daa154892e2a580f4aacc685cb61f55bcb7184"
+file: "direnv@2.38.2.macos-amd64.tar.bz2"
 url: "https://github.com/direnv/direnv/releases/download/v2.38.2/direnv.darwin-amd64"
+relocated: "loader_path"

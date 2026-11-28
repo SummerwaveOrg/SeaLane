@@ -1,3 +1,4 @@
-sha256: "2e5705c296484623b2f205bbcfc70cdae34ab5b2fbcb6e602f3e577694526f3b"
-file: "flyctl_0.5.15_macOS_x86_64.tar.gz"
+sha256: "4786bfa3b02333258f71054c01c6c09f2b09722590bc3d533ce5f2312427de96"
+file: "flyctl@0.5.15.macos-amd64.tar.bz2"
 url: "https://github.com/superfly/flyctl/releases/download/v0.5.15/flyctl_0.5.15_macOS_x86_64.tar.gz"
+relocated: "loader_path"

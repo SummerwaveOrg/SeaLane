@@ -1,4 +1,5 @@
-sha256: "2b233301ad21ab7b1eabd9ae1198a164005fa4928fcdd745d47c39f8593209d7"
-file: "age-v1.3.1-darwin-amd64.tar.gz"
+sha256: "c81c88392d36cd34d8e0697ec1821bbbadc4bd2af4ea7063768fa97bba9a5421"
+file: "age@1.3.1.macos-amd64.tar.bz2"
 url: "https://github.com/FiloSottile/age/releases/download/v1.3.1/age-v1.3.1-darwin-amd64.tar.gz"
 min_os: "12.0"
+relocated: "loader_path"

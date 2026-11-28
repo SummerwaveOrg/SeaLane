@@ -1,4 +1,5 @@
-sha256: "ada808c7401b9949ce8842274ac16a6b6193fd32dcada396884a6a9a89e5985a"
-file: "fzf-0.74.5-darwin_arm64.tar.gz"
+sha256: "0da089d139f6b821cb8355805e044f769428e5fc6685c50f6ee94920ba817059"
+file: "fzf@0.74.5.macos-arm64.tar.bz2"
 url: "https://github.com/junegunn/fzf/releases/download/v0.74.5/fzf-0.74.5-darwin_arm64.tar.gz"
 min_os: "13.0"
+relocated: "loader_path"

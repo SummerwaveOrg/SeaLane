@@ -1,4 +1,5 @@
-sha256: "59f803faa32cd4e5f316f0dc2d3b7a5530a72553e38ad939286471848a418eeb"
-file: "zellij-x86_64-apple-darwin.tar.gz"
+sha256: "cc954389b96c9feb1c02152d278dcc1eb2eb6be15934231b3c88ca55fff04e15"
+file: "zellij@0.44.3.macos-amd64.tar.bz2"
 url: "https://github.com/zellij-org/zellij/releases/download/v0.44.3/zellij-x86_64-apple-darwin.tar.gz"
 min_os: "10.12"
+relocated: "loader_path"
