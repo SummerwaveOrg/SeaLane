@@ -1,3 +1,4 @@
-sha256: "748237128c4c40cbdabc65e841d05ceba13cc23a91eaba395495894c1d9764df"
-file: "just-1.58.0-aarch64-unknown-linux-musl.tar.gz"
+sha256: "c2ed7db4f7e2c1660d87c1b1a6ac452d1b297e1d1f0f98db94a4664e00fbca0b"
+file: "just@1.58.0.linux-arm64.tar.bz2"
 url: "https://github.com/casey/just/releases/download/1.58.0/just-1.58.0-aarch64-unknown-linux-musl.tar.gz"
+relocated: "loader_path"

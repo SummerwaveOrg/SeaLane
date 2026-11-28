@@ -1,3 +1,4 @@
-sha256: "1bafc3685d531a2440cdf14d756d7aa396b1ed401eb51dda90148685e4eba9a8"
-file: "fx_linux_amd64"
+sha256: "b0f0b9acadb7c8d1c689a4b39d8bbb90146d8cf9a2e9b0227f399caad4728085"
+file: "fx@40.0.2.linux-amd64.tar.bz2"
 url: "https://github.com/antonmedv/fx/releases/download/40.0.2/fx_linux_amd64"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "82fb5de3ff472add55769eabbaec7b363ac0355455200567ce75c77b8dd55d9a"
-file: "k9s_linux_amd64.apk"
+sha256: "0ed85529800a5a4bad3875ec40075fd898bdd86990e64dcb6f0816041fc250ab"
+file: "k9s@0.51.0.linux-amd64.tar.bz2"
 url: "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_linux_amd64.apk"
+relocated: "loader_path"

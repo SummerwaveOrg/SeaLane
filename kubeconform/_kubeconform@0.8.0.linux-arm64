@@ -1,3 +1,4 @@
-sha256: "1f53fc8e81258197a35e8603054162a5af1de8c5af13746c71ab680d9534ed87"
-file: "kubeconform-linux-arm64.tar.gz"
+sha256: "b082af6a588ec4fdb1d23e095c6ec2bbdfc2293fc9d812de4934d18532681468"
+file: "kubeconform@0.8.0.linux-arm64.tar.bz2"
 url: "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-linux-arm64.tar.gz"
+relocated: "loader_path"

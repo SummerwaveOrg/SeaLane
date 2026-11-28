@@ -1,3 +1,4 @@
-sha256: "985e24041e9ef6e9a38e9e088743405dde23d7220aa96740f091862167d9ff28"
-file: "fd-v10.5.2-x86_64-unknown-linux-gnu.tar.gz"
+sha256: "3c3c9ff6e9828ecfd17511f88fd0040e24f4169bc51dd383e7f2507cc535c56a"
+file: "fd@10.5.2.linux-amd64.tar.bz2"
 url: "https://github.com/sharkdp/fd/releases/download/v10.5.2/fd-v10.5.2-x86_64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

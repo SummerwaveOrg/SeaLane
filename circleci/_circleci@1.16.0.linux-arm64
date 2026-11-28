@@ -1,3 +1,4 @@
-sha256: "854f232468d586905bfdf3909801b2e46f2bb34c54ab77fb26bc255092fb9cbc"
-file: "circleci-cli_1.16.0_linux_arm64.tar.gz"
+sha256: "2065e66e52b21a42ade24341b37e421513fa4946daf115c5aba0ef327f530693"
+file: "circleci@1.16.0.linux-arm64.tar.bz2"
 url: "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.16.0/circleci-cli_1.16.0_linux_arm64.tar.gz"
+relocated: "loader_path"

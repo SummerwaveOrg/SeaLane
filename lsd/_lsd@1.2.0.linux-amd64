@@ -1,3 +1,4 @@
-sha256: "57d3b5859254adcfb8374ce98159cca97a14959997d2ae1176d2cff59556d829"
-file: "lsd-v1.2.0-x86_64-unknown-linux-gnu.tar.gz"
+sha256: "0125df22d67806d9c331ad382614f80dbfa53495968edcda43110e316fbc1c80"
+file: "lsd@1.2.0.linux-amd64.tar.bz2"
 url: "https://github.com/lsd-rs/lsd/releases/download/v1.2.0/lsd-v1.2.0-x86_64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

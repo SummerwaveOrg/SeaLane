@@ -1,3 +1,4 @@
-sha256: "05e6813a337cc722c3ed07e54a764b75cc5d671e2e60459db0ba696ee5fa7504"
-file: "fzf-0.74.4-linux_amd64.tar.gz"
+sha256: "2d55eeccba6e574326840b408b0de16bf7cfa3391c3d79d69e3a2c89db8870f2"
+file: "fzf@0.74.4.linux-amd64.tar.bz2"
 url: "https://github.com/junegunn/fzf/releases/download/v0.74.4/fzf-0.74.4-linux_amd64.tar.gz"
+relocated: "loader_path"

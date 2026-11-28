@@ -1,3 +1,4 @@
-sha256: "0d9dbfc26068b218e7ed84b104748cadc6e3cf733c0afd35465306fb39b9523c"
-file: "lazydocker_0.25.2_Linux_x86_64.tar.gz"
+sha256: "03d8665668c04b884255902ae779c06ea2dc870b2e5c901c124058adeb4a5d7c"
+file: "lazydocker@0.25.2.linux-amd64.tar.bz2"
 url: "https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Linux_x86_64.tar.gz"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "95b0632a7e1b12761248b7266825b0eab0853cefb84a1e272d905acb6e436f6c"
-file: "gh_2.104.0_linux_arm64.deb"
+sha256: "9623ae01b5de287960af4edea2fe3abcc3fad8589f491f7d65dce4c302e8e1e1"
+file: "gh@2.104.0.linux-arm64.tar.bz2"
 url: "https://github.com/cli/cli/releases/download/v2.104.0/gh_2.104.0_linux_arm64.deb"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "23c4d3998fc7fc0d4858563573aaabbffdfec656eb704f90b727c45467a7806d"
-file: "chezmoi_2.73.3_linux_arm64.apk"
+sha256: "628eddb891184f087d97353605ae08ec1849dc3cc1d3dded5fe454d15190bb10"
+file: "chezmoi@2.73.3.linux-arm64.tar.bz2"
 url: "https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_arm64.apk"
+relocated: "loader_path"

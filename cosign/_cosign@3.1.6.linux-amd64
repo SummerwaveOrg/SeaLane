@@ -1,3 +1,4 @@
-sha256: "318a99ade4156a0c4113aa983b46c0a0830fa7896a096c63121ee47b610a94c6"
-file: "cosign-linux-amd64"
+sha256: "92632bedc31ac922bbe64447b3a73883fbd91265311146e7c3c75f08f2e0e129"
+file: "cosign@3.1.6.linux-amd64.tar.bz2"
 url: "https://github.com/sigstore/cosign/releases/download/v3.1.6/cosign-linux-amd64"
+relocated: "loader_path"

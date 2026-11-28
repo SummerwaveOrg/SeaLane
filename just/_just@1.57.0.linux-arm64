@@ -1,3 +1,4 @@
-sha256: "f225044a81adea6e0b3a8b9370aaf374e6af76c8735ae263ac993df55fd137ec"
-file: "just-1.57.0-aarch64-unknown-linux-musl.tar.gz"
+sha256: "5a6df13e51905c145206993d12ba631242d26896e35d12b54f18a2d2af44a655"
+file: "just@1.57.0.linux-arm64.tar.bz2"
 url: "https://github.com/casey/just/releases/download/1.57.0/just-1.57.0-aarch64-unknown-linux-musl.tar.gz"
+relocated: "loader_path"

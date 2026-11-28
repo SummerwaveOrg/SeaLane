@@ -1,3 +1,4 @@
-sha256: "e3bafef96328d1a67de3a968bdfe1cc2ffd58cf6aba8b5e201356897ed06bb3d"
-file: "gh_2.103.3_linux_amd64.deb"
+sha256: "aabdbeaf61b891aef4e979233b31787dc8129af8759f58368cc8d8f7c238aec3"
+file: "gh@2.103.3.linux-amd64.tar.bz2"
 url: "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_linux_amd64.deb"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "e7e7fb30477f717e6f55f9180a70386c62677ef8a4d4d1a5d948f4098aa3eb99"
-file: "ffmpeg-linux-x64"
+sha256: "aecffb3545c56f5d2832b8c1a3d779cbafd11a70af3659a4e3e04ebab165ae5c"
+file: "ffmpeg@6.0.linux-amd64.tar.bz2"
 url: "https://github.com/eugeneware/ffmpeg-static/releases/download/b6.1.1/ffmpeg-linux-x64"
+relocated: "loader_path"

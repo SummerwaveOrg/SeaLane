@@ -1,3 +1,4 @@
-sha256: "ae4228314f6b33705fe584dce58a2910b8e19fbeb8b652263ee7b66cc7e87a59"
-file: "atuin-aarch64-unknown-linux-gnu.tar.gz"
+sha256: "aed26d2d32cc82f0a8cba606c7e2fa88bf5dcbc2caee488bb6477d76c65b6f8a"
+file: "atuin@18.24.5.linux-arm64.tar.bz2"
 url: "https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-aarch64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "f6198ef8090f404dbb771abfee086eb8c48ac177f30da7fd3510aca35b344b5d"
-file: "hadolint-linux-arm64"
+sha256: "6950eaa5c186787f9c3bb5b0d09aafff5012afcf4f15bb85b07fd1368bcdfeaa"
+file: "hadolint@2.15.1.linux-arm64.tar.bz2"
 url: "https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-linux-arm64"
+relocated: "loader_path"

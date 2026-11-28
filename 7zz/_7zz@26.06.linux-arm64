@@ -1,3 +1,4 @@
-sha256: "edcc408aacce77da5223728f2eceb5e9f6dc713b8a9df934ad21e2a7f7560627"
-file: "7z2606-linux-arm64.tar.xz"
+sha256: "8d8989ef9eb6a79802561638f682c821114091fd3cb02a8e50ce37ec040f8b33"
+file: "7zz@26.06.linux-arm64.tar.bz2"
 url: "https://github.com/ip7z/7zip/releases/download/26.06/7z2606-linux-arm64.tar.xz"
+relocated: "loader_path"

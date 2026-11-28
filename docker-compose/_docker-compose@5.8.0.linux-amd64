@@ -1,3 +1,4 @@
-sha256: "b8840f5008c447f41fce0a57ae3adeab42c89b1eb6e6012524bcabbfb4ffbaf6"
-file: "docker-compose-linux-x86_64"
+sha256: "256d3eb8b27a80641f8621d7205fa6f1b9ccbada696fc0dc20ee40aced7fe94b"
+file: "docker-compose@5.8.0.linux-amd64.tar.bz2"
 url: "https://github.com/docker/compose/releases/download/v5.8.0/docker-compose-linux-x86_64"
+relocated: "loader_path"

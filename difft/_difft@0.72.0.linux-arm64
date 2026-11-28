@@ -1,3 +1,4 @@
-sha256: "0993a82a6708a24adc6c6b8de366924728ed08f537a5b488940082c8edc79353"
-file: "difft-0.72.0-aarch64-unknown-linux-gnu.tar.gz"
+sha256: "f3e11324767ec5e0c6c57e5f428da8f601cd46bd2948bc7095dcc69590c1368a"
+file: "difft@0.72.0.linux-arm64.tar.bz2"
 url: "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-aarch64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

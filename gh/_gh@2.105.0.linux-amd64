@@ -1,3 +1,4 @@
-sha256: "1dac939af3e84fb3861927c984b357531341be9403b889e4aa86e8822145a09d"
-file: "gh_2.105.0_linux_amd64.deb"
+sha256: "6dda5a0fb4bf8dc15c3c4bd47fa4945db54e2411f8dd3f11dd610c045b7936fa"
+file: "gh@2.105.0.linux-amd64.tar.bz2"
 url: "https://github.com/cli/cli/releases/download/v2.105.0/gh_2.105.0_linux_amd64.deb"
+relocated: "loader_path"

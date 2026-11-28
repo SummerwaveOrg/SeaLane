@@ -1,3 +1,4 @@
-sha256: "33ea1f003081e9f2422299a434e6040c89085bd9f102b08f3fe30393720d5d4a"
-file: "difft-0.72.0-x86_64-unknown-linux-gnu.tar.gz"
+sha256: "317874226fec4b2f30ac43c2add7fc2eeecfbe09b282caea8a458552b228c0e6"
+file: "difft@0.72.0.linux-amd64.tar.bz2"
 url: "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

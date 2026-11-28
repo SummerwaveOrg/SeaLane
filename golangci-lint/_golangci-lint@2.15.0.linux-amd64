@@ -1,3 +1,4 @@
-sha256: "95dc7dfdf0e36b48583405cb20732561b67fa90ecde20f529faaf360f1f26195"
-file: "golangci-lint-2.15.0-linux-amd64.deb"
+sha256: "96ff39c3facb4288fc89c3ff19732b906f321ccc837d5040c501d0a5085d7b32"
+file: "golangci-lint@2.15.0.linux-amd64.tar.bz2"
 url: "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.deb"
+relocated: "loader_path"

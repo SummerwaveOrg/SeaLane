@@ -1,3 +1,4 @@
-sha256: "91ac5ef510763cfa78953bd377c90c68cb1f8c30eb2a5ec46196cc72e8c0aa09"
-file: "kubectx_v0.10.2_linux_x86_64.tar.gz"
+sha256: "db6a55a8e6880973302c4f920287cf8677d55fe783a1057fe6fa66a8bb4bbc08"
+file: "kubectx@0.10.2.linux-amd64.tar.bz2"
 url: "https://github.com/ahmetb/kubectx/releases/download/v0.10.2/kubectx_v0.10.2_linux_x86_64.tar.gz"
+relocated: "loader_path"

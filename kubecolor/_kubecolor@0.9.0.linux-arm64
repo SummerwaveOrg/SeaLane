@@ -1,3 +1,4 @@
-sha256: "6fd9b245b85279c060b1caf4a7da3d44251953733045fe46dd403335a715923e"
-file: "kubecolor_0.9.0_linux_arm64.deb"
+sha256: "715570bf29003bb3edf41bc57eccb416a5dac415d72ed12269deb13d143b2029"
+file: "kubecolor@0.9.0.linux-arm64.tar.bz2"
 url: "https://github.com/kubecolor/kubecolor/releases/download/v0.9.0/kubecolor_0.9.0_linux_arm64.deb"
+relocated: "loader_path"

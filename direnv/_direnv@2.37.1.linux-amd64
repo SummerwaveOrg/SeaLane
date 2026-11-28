@@ -1,3 +1,4 @@
-sha256: "1f1b93dd6f38523fde26dfac96151ef9d31a374e3005cd3345fb93555ae0c9b5"
-file: "direnv.linux-amd64"
+sha256: "d837483a8aa7e043668fdb53f2bb4faff2855f3be2776e481214482a36f2d317"
+file: "direnv@2.37.1.linux-amd64.tar.bz2"
 url: "https://github.com/direnv/direnv/releases/download/v2.37.1/direnv.linux-amd64"
+relocated: "loader_path"

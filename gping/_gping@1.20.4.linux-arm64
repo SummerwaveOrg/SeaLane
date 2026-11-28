@@ -1,3 +1,4 @@
-sha256: "a912b76238bf73d4ae6a4a2ada7f6dd42c25da37e8f0044f72543323656f7631"
-file: "gping-Linux-gnu-arm64.tar.gz"
+sha256: "0eebc05fb13d89a9bcedca1c352d45681ae5c56100785870d41b523c4d42bf93"
+file: "gping@1.20.4.linux-arm64.tar.bz2"
 url: "https://github.com/orf/gping/releases/download/gping-v1.20.4/gping-Linux-gnu-arm64.tar.gz"
+relocated: "loader_path"

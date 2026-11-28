@@ -1,3 +1,4 @@
-sha256: "8efcec73cea1cebcd3a19da0bc782c0c6d95da7ae6006902a9d93b5ac9efe1c2"
-file: "nvim-linux-arm64.appimage"
+sha256: "ab19a6c1fa041e4de68e28631c01b75bfc0becd724468d7283bb827aac86b631"
+file: "nvim@0.12.6.linux-arm64.tar.bz2"
 url: "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "422eb73e11c854fddd99f5ca8461c2f1d6e6dce0a2a8c3d5daade5ffcb6564aa"
-file: "bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz"
+sha256: "29a353cc0c8b6d294420789aeb8e7c7836416c9458cf080cdc61ce206a4677e7"
+file: "bat@0.26.1.linux-arm64.tar.bz2"
 url: "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

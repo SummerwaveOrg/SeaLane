@@ -1,3 +1,4 @@
-sha256: "d3344bd0810c04b000d2444030b08c90ab9fbf905bbe2c3e26298be00c620d65"
-file: "act_Linux_x86_64.tar.gz"
+sha256: "a9f50928da694f5f1ee860b3361c0630859ce6ee75c09f4398fdf3f94f35c5b3"
+file: "act@0.2.98.linux-amd64.tar.bz2"
 url: "https://github.com/nektos/act/releases/download/v0.2.98/act_Linux_x86_64.tar.gz"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "e37b746dd252ab51b8dbe90f07eaf50c0335d137009cc224a97203acf1c331ab"
-file: "cloudflared-linux-aarch64.rpm"
+sha256: "63e92876030c665b686640e8b9fc9f93b221400f5d6013d9d8ab0b083f3d8737"
+file: "cloudflared@2026.9.3.linux-arm64.tar.bz2"
 url: "https://github.com/cloudflare/cloudflared/releases/download/2026.9.3/cloudflared-linux-aarch64.rpm"
+relocated: "loader_path"

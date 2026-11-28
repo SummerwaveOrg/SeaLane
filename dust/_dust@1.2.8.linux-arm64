@@ -1,3 +1,4 @@
-sha256: "261b5232d35313ae02e2a7488be4413fddae8e520a1f6866895a759008130b73"
-file: "dust-v1.2.8-aarch64-unknown-linux-gnu.tar.gz"
+sha256: "e789f0d9e400b97baa1c985f1e5b188c16f09c813e1ad9f7aba7dd42239f3ed3"
+file: "dust@1.2.8.linux-arm64.tar.bz2"
 url: "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-aarch64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

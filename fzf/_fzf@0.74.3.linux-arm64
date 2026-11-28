@@ -1,3 +1,4 @@
-sha256: "4a17a17b46bd0c4873e995533de508995c11572c0be0664a5dbcf13f60463046"
-file: "fzf-0.74.3-linux_arm64.tar.gz"
+sha256: "48f4b99c93b81a02d00c376b4d38d9fdae1cdffab30e5d6a4725bbe1658e0487"
+file: "fzf@0.74.3.linux-arm64.tar.bz2"
 url: "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_arm64.tar.gz"
+relocated: "loader_path"

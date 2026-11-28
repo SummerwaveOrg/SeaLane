@@ -1,3 +1,4 @@
-sha256: "e4eb209d04e20339d77122a3bdf9cd41351255cfb27ebcb75e85325e04f88924"
-file: "gitleaks_8.29.1_linux_x64.tar.gz"
+sha256: "8713435f38657d06777e75148ebcefcac4e234ba40a837318414bf1af9154883"
+file: "gitleaks@8.29.1.linux-amd64.tar.bz2"
 url: "https://github.com/gitleaks/gitleaks/releases/download/v8.29.1/gitleaks_8.29.1_linux_x64.tar.gz"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "5554b112f18c8f1b9194385950922ee3303703a977f3752d4637d3138516ae05"
-file: "chezmoi-linux-amd64"
+sha256: "05f1a37fcbc29318061a315d6dae63fee2696a86a048b7a1eefd9a0a7be5f554"
+file: "chezmoi@2.74.2.linux-amd64.tar.bz2"
 url: "https://github.com/twpayne/chezmoi/releases/download/v2.74.2/chezmoi-linux-amd64"
+relocated: "loader_path"

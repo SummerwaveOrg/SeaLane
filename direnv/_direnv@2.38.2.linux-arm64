@@ -1,3 +1,4 @@
-sha256: "ec2a32dbe2f19dd085bd9315a1b4ea88b55ec288aa7eabe8723490baf466cb23"
-file: "direnv.linux-arm64"
+sha256: "f7503a7d72421c16db29c92b5da36e460ee9959e3e6873cb400bc5639335e4c5"
+file: "direnv@2.38.2.linux-arm64.tar.bz2"
 url: "https://github.com/direnv/direnv/releases/download/v2.38.2/direnv.linux-arm64"
+relocated: "loader_path"

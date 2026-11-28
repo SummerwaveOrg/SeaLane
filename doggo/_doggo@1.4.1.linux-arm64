@@ -1,3 +1,4 @@
-sha256: "69b9ce66545744459c0287bf3df6ce8a64e114b94d2dd617ea6119314c73b992"
-file: "doggo-linux-aarch64.tar.gz"
+sha256: "5bedae48670ba823d5b0d33761cad273a23b81f8686567982aa7e9cb424fdb69"
+file: "doggo@1.4.1.linux-arm64.tar.bz2"
 url: "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-aarch64.tar.gz"
+relocated: "loader_path"

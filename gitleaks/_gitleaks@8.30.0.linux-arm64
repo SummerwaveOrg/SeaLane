@@ -1,3 +1,4 @@
-sha256: "b4cbbb6ddf7d1b2a603088cd03a4e3f7ce48ee7fd449b51f7de6ee2906f5fa2f"
-file: "gitleaks_8.30.0_linux_arm64.tar.gz"
+sha256: "1428da50937cabbd7ac044bd39123f6960fd73b5d88693c602ed2b11082734ef"
+file: "gitleaks@8.30.0.linux-arm64.tar.bz2"
 url: "https://github.com/gitleaks/gitleaks/releases/download/v8.30.0/gitleaks_8.30.0_linux_arm64.tar.gz"
+relocated: "loader_path"

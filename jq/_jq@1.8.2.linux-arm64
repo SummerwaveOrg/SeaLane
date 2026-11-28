@@ -1,3 +1,4 @@
-sha256: "8b85c817833814ddca00a144c33705546355afccf0cf39b188f3cdb48b852309"
-file: "jq-linux-arm64"
+sha256: "87b08f5b0c2eff790fc9b0c68f3677e7e480e296afd303804d6cc1ca9a01916d"
+file: "jq@1.8.2.linux-arm64.tar.bz2"
 url: "https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-linux-arm64"
+relocated: "loader_path"

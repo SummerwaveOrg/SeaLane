@@ -1,3 +1,4 @@
-sha256: "812968457a81a4ee5ac06dcd0629467ff29d6de68608cc0299182815834e4c77"
-file: "linuxwave-0.4.0-aarch64-linux.tar.gz"
+sha256: "88516e15e674980913bafcc12113ff9530231c400bfe6cd77a86c6ca0f9f9a1e"
+file: "linuxwave@0.4.0.linux-arm64.tar.bz2"
 url: "https://github.com/orhun/linuxwave/releases/download/v0.4.0/linuxwave-0.4.0-aarch64-linux.tar.gz"
+relocated: "loader_path"

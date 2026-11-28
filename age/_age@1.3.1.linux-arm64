@@ -1,3 +1,4 @@
-sha256: "c6878a324421b69e3e20b00ba17c04bc5c6dab0030cfe55bf8f68fa8d9e9093a"
-file: "age-v1.3.1-linux-arm64.tar.gz"
+sha256: "6a9ef8e1205af34c78f2544e32592bd063af7dc781fda3e4f4aa7c639e1bf365"
+file: "age@1.3.1.linux-arm64.tar.bz2"
 url: "https://github.com/FiloSottile/age/releases/download/v1.3.1/age-v1.3.1-linux-arm64.tar.gz"
+relocated: "loader_path"

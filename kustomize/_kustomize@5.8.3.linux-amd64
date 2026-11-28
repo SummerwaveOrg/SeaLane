@@ -1,3 +1,4 @@
-sha256: "cb9e31198d3f63b44848bd0afc4c8efc56e6cfef9c93a4a39a211940e6decd61"
-file: "kustomize_v5.8.3_linux_amd64.tar.gz"
+sha256: "5e530f9ffe6e064007add06ee75b02c6450c84547fc11c4d8880b1801ad05461"
+file: "kustomize@5.8.3.linux-amd64.tar.bz2"
 url: "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_linux_amd64.tar.gz"
+relocated: "loader_path"

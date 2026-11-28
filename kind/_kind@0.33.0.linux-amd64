@@ -1,3 +1,4 @@
-sha256: "aee6151561422756b764a4ae28e7f44cda5af5a9eead3cc9985112b1de8d8e0d"
-file: "kind-linux-amd64"
+sha256: "56b26a78d3531bab836f411fd336d653e37a5bdebcf39e9bc913f267af050d2d"
+file: "kind@0.33.0.linux-amd64.tar.bz2"
 url: "https://github.com/kubernetes-sigs/kind/releases/download/v0.33.0/kind-linux-amd64"
+relocated: "loader_path"

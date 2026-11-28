@@ -1,3 +1,4 @@
-sha256: "90377fbdbe3a01f791032a289986867ff1f8fe20ce94b45f20ecb399f7b69411"
-file: "fx_linux_arm64"
+sha256: "6ff070b03b057f48d427b6986e7ad5da842b207e6d834fe3c9196a1b5554b809"
+file: "fx@40.0.1.linux-arm64.tar.bz2"
 url: "https://github.com/antonmedv/fx/releases/download/40.0.1/fx_linux_arm64"
+relocated: "loader_path"

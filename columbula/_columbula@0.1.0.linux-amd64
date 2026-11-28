@@ -1,3 +1,4 @@
-sha256: "271bfe2ac3c2049548ea5c2f2022b107fdc2f865a179fd0607645c1e49734b87"
-file: "Columbula-Linux-amd64"
+sha256: "504b7c9d095836c2ca70936e0f20a49293476f4f293a00a3d67bb8eabd67abbd"
+file: "columbula@0.1.0.linux-amd64.tar.bz2"
 url: "https://github.com/Sha0huaZhang/Columbula/releases/download/v0.1.0/Columbula-Linux-amd64"
+relocated: "loader_path"

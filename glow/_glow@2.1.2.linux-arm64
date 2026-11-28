@@ -1,3 +1,4 @@
-sha256: "cf63abebcb50b72909db965d78290e7cecbf17a900e84705dc84addbb6952099"
-file: "glow_2.1.2_Linux_arm64.tar.gz"
+sha256: "19610add8f2a574742218021c28c447b6941d4243c6d382768b9083de00b76ac"
+file: "glow@2.1.2.linux-arm64.tar.bz2"
 url: "https://github.com/charmbracelet/glow/releases/download/v2.1.2/glow_2.1.2_Linux_arm64.tar.gz"
+relocated: "loader_path"

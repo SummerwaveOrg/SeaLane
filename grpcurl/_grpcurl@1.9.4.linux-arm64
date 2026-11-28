@@ -1,3 +1,4 @@
-sha256: "b9aeac8f0c5598d27a2238e8a90d9bf36b8a2db0f6e5e99efd2fe93509f1b9ad"
-file: "grpcurl_1.9.4_linux_arm64.deb"
+sha256: "920850a4022d11d149c9d94d79c0aa397268f4b9900eb11a6ddae76792a02bae"
+file: "grpcurl@1.9.4.linux-arm64.tar.bz2"
 url: "https://github.com/fullstorydev/grpcurl/releases/download/v1.9.4/grpcurl_1.9.4_linux_arm64.deb"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "0bfce159a5cddd5feb3d6db4a616d883ff51253ce08ac7ec11cb1d208cfaab9e"
-file: "delta-0.19.2-aarch64-unknown-linux-gnu.tar.gz"
+sha256: "0064d610c721e8c0ac60ae22a3d56f4da77e010851dbbeaebb47b95673fa73ac"
+file: "delta@0.19.2.linux-arm64.tar.bz2"
 url: "https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-aarch64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

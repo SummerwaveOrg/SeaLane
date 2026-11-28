@@ -1,3 +1,4 @@
-sha256: "67d302d82d2e72831fe397024ac12c8de11249afc0289578008d464a7ba3e19f"
-file: "ollama-linux-arm64-jetpack5.tar.zst"
+sha256: "f64e8802f89411c92d4560e173f8450c6a6c83bcc8a86a96b717a691c4020c3c"
+file: "ollama@0.34.4.linux-arm64.tar.bz2"
 url: "https://github.com/ollama/ollama/releases/download/v0.34.4/ollama-linux-arm64-jetpack5.tar.zst"
+relocated: "loader_path"

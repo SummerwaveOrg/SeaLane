@@ -1,3 +1,4 @@
-sha256: "fc4c532705cf97f519a612fd980589d9dcd6781d57992a68c373436cc28b8262"
-file: "ipswd_3.1.752_linux_x86_64.apk"
+sha256: "5e5ccc6ebd9485263fcf707f38a6787aba0e8b8ab31683cde01a764dc61d1a32"
+file: "ipsw@3.1.752.linux-amd64.tar.bz2"
 url: "https://github.com/blacktop/ipsw/releases/download/v3.1.752/ipswd_3.1.752_linux_x86_64.apk"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "85ea8435b0a80b6d31ffa9f61ac9b67d9bb8f0ffffabdfe5e7e587b07a0a0684"
-file: "fx_linux_arm64"
+sha256: "a6dedbef3c003ad4f82f2da5cb35f3238826082952bbe19b026b746d474621cd"
+file: "fx@39.2.0.linux-arm64.tar.bz2"
 url: "https://github.com/antonmedv/fx/releases/download/39.2.0/fx_linux_arm64"
+relocated: "loader_path"

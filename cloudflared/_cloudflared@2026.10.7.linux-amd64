@@ -1,3 +1,4 @@
-sha256: "426c7c0e3bdb1b62f43b88ede364c7e41bee9b5a5397546d1dd301420c75f9c7"
-file: "cloudflared-fips-linux-amd64"
+sha256: "5ffef156cbb6724aca7f88d7ce1f11b8b5a9403d0a0cb8700f65786c7a63a8ca"
+file: "cloudflared@2026.10.7.linux-amd64.tar.bz2"
 url: "https://github.com/cloudflare/cloudflared/releases/download/2026.10.7/cloudflared-fips-linux-amd64"
+relocated: "loader_path"

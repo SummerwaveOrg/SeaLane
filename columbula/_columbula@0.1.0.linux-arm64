@@ -1,3 +1,4 @@
-sha256: "2a9ba79e4bcd6c2dde19a533fcc3d9398a92b868bc972bfa03d6e7a5be9e3c17"
-file: "Columbula-Linux-arm64"
+sha256: "1c5b13c9d20721d75397fe004c95deaaa6380fbda9f023750d714f225196eb07"
+file: "columbula@0.1.0.linux-arm64.tar.bz2"
 url: "https://github.com/Sha0huaZhang/Columbula/releases/download/v0.1.0/Columbula-Linux-arm64"
+relocated: "loader_path"

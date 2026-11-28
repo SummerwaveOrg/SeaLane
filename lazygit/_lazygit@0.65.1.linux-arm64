@@ -1,3 +1,4 @@
-sha256: "49abecdf6adf4f2dfdb11bf7b9bfada267ea523612ed809d1c6d87f6c04000a7"
-file: "lazygit_0.65.1_linux_arm64.tar.gz"
+sha256: "4edbec4b0f727f2749de7edf58606e97068b4d0744f0e6fed318f593c9a7756d"
+file: "lazygit@0.65.1.linux-arm64.tar.bz2"
 url: "https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_arm64.tar.gz"
+relocated: "loader_path"

@@ -1,3 +1,4 @@
-sha256: "3285e4083a79955b0606ab799ebc1493087307cdc76b4827308b1a4dcdb371c9"
-file: "duckdb-cli-linux-amd64-musl.tar.gz"
+sha256: "0b841fb63142b00dc1aedc0177ba4b15afde209c429b6c90ccc8af8b8d567461"
+file: "duckdb@2.0.0.linux-amd64.tar.bz2"
 url: "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64-musl.tar.gz"
+relocated: "loader_path"

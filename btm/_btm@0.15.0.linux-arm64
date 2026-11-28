@@ -1,3 +1,4 @@
-sha256: "93221c07d549750e5cfac2a76f70e5d792c744958ecc466bbeb9d3bef34288b6"
-file: "bottom_aarch64-unknown-linux-gnu.tar.gz"
+sha256: "717591844d760df7cea43d05eba54d3e9cd8733ba037352f6a65e41b176707ff"
+file: "btm@0.15.0.linux-arm64.tar.bz2"
 url: "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

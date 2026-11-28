@@ -1,3 +1,4 @@
-sha256: "e2b709e7330e5e0e2b18924ebdd741f4a1e82265a2336a153f8db82567135d94"
-file: "bat-musl_0.26.1_musl-linux-amd64.deb"
+sha256: "342932623c04596bcab03090d58e11ef319c7a5aa0107108234160a156917c4d"
+file: "bat@0.26.1.linux-amd64.tar.bz2"
 url: "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-amd64.deb"
+relocated: "loader_path"

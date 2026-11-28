@@ -1,3 +1,4 @@
-sha256: "8f13d0edf167d1772cd1252c1f5d87c8c7203e48f29af60a84d21c9d7243a796"
-file: "bottom_x86_64-unknown-linux-gnu-2-17.tar.gz"
+sha256: "2ec01ea2ad2b638b8fc1b1e41c17aa3f7e29a434d2e22415c90601fd8e45927c"
+file: "btm@0.15.0.linux-amd64.tar.bz2"
 url: "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-unknown-linux-gnu-2-17.tar.gz"
+relocated: "loader_path"

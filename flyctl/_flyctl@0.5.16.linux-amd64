@@ -1,3 +1,4 @@
-sha256: "1bf25e16981d7b782b9db6ee499c1addd90046b3f977c5091382c078004cd5f6"
-file: "flyctl_0.5.16_Linux_x86_64.tar.gz"
+sha256: "f047ab0838b5c6e0c7065bf62dc4d67ac31b659dc57c8feaa25b486151c8a975"
+file: "flyctl@0.5.16.linux-amd64.tar.bz2"
 url: "https://github.com/superfly/flyctl/releases/download/v0.5.16/flyctl_0.5.16_Linux_x86_64.tar.gz"
+relocated: "loader_path"

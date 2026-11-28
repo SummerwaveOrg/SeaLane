@@ -1,3 +1,4 @@
-sha256: "976a7e9c87cfa81ace3c81ef048c7fd7d378524c9abc5d78f52af050a6e03b38"
-file: "fd-v10.4.1-aarch64-unknown-linux-gnu.tar.gz"
+sha256: "6d46e5c3d1f93fd12c894cfde2ba491d8feb63dbd75207d4282b4726fd34029a"
+file: "fd@10.4.1.linux-arm64.tar.bz2"
 url: "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-aarch64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

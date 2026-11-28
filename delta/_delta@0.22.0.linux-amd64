@@ -1,3 +1,4 @@
-sha256: "10d20fd7b7e0350e7996ff191a68bfd52093a2361c72b08f6fa10b31dd6782ce"
-file: "delta-0.22.0-x86_64-unknown-linux-gnu.tar.gz"
+sha256: "6316afaae02e92ad407e856751b24a58d40871aafcc469f6db242acf60f8c15f"
+file: "delta@0.22.0.linux-amd64.tar.bz2"
 url: "https://github.com/dandavison/delta/releases/download/0.22.0/delta-0.22.0-x86_64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

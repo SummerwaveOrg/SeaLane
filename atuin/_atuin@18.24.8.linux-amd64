@@ -1,3 +1,4 @@
-sha256: "1f50424d9e06c96f6eb96568b205a445e8c69b7ca5b1e8046ade58c30ab69319"
-file: "atuin-server-x86_64-unknown-linux-gnu.tar.gz"
+sha256: "a1ed44b0f21a1ee47fd92afcbf30cdb9447274eab51609d9374cd1ee7be7a4e0"
+file: "atuin@18.24.8.linux-amd64.tar.bz2"
 url: "https://github.com/atuinsh/atuin/releases/download/v18.24.8/atuin-server-x86_64-unknown-linux-gnu.tar.gz"
+relocated: "loader_path"

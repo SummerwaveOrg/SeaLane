@@ -1,3 +1,4 @@
-sha256: "8aca8db96f1b94770f1b0d72b6dddcb1ebb8123cb3712530b08cc387b349a3d8"
-file: "actionlint_1.7.12_linux_amd64.tar.gz"
+sha256: "738a13b386e9683fcb820221c6513e30fda7b1648a39d9c4c6f0ec4cd8374f0c"
+file: "actionlint@1.7.12.linux-amd64.tar.bz2"
 url: "https://github.com/rhysd/actionlint/releases/download/v1.7.12/actionlint_1.7.12_linux_amd64.tar.gz"
+relocated: "loader_path"
